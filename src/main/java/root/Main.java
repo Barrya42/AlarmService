@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 //@Import(DataConfig.class)
 public class Main
 {
-@Autowired
+    @Autowired
 
     public static void main(String[] args)
     {
